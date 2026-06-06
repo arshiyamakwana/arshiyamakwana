@@ -17,3 +17,11 @@
 
 - LinkedIn:linkedin.com/in/ arshiya-makwana-85402025
 - Email: arshiyamakwana@gmail.com
+
+## 📊 GitHub Stats
+
+![Arshiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshiyamakwana&show_icons=true&theme=tokyonight)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React.js+Developer;UI%2FUX+Enthusiast)](https://git.io/typing-svg)
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,vscode,git,github)](https://skillicons.dev)
